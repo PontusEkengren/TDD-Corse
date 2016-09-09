@@ -15,10 +15,10 @@ public class Main {
         assertPrimes(2, 2);
         assertPrimes(3, 3);
         assertPrimes(4, 2, 2);
-        //assertPrimes(5, 5); fail
+        assertPrimes(5, 5);
         assertPrimes(8, 2, 2, 2);
         assertPrimes(9, 3, 3);
-
+        assertPrimes(2 * 3 * 5 * 7 * 11, 2, 3, 5, 7, 11);
     }
 
     public void assertPrimes(int i, Integer... expects) {

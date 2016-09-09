@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34dce54b-f380-4bc8-8bc8-70fad328d8e3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TDD-Corse/Main.class" afterPath="$PROJECT_DIR$/out/production/TDD-Corse/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TDD-Corse.iml" afterPath="$PROJECT_DIR$/TDD-Corse.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Primes.java" afterPath="$PROJECT_DIR$/src/Primes.java" />
     </list>
     <ignored path="TDD Course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,25 +26,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            <state relative-caret-position="323">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Primes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Primes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Primes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,8 +72,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Primes.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -532,19 +533,13 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Main - 2016.09.09 at 10h 18m 26s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2016.09.09 at 10h 19m 51s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Main - 2016.09.09 at 10h 25m 26s.xml">
-      <configuration name="Main" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Main - 2016.09.09 at 10h 27m 50s.xml">
       <configuration name="Main" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Main - 2016.09.09 at 10h 29m 27s.xml">
+      <configuration name="Main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main - 2016.09.09 at 10h 38m 53s.xml">
       <configuration name="Main" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Main_primes - 2016.09.09 at 10h 29m 08s.xml">
@@ -559,8 +554,14 @@
     <history-entry file="Main_primes - 2016.09.09 at 10h 31m 16s.xml">
       <configuration name="Main.primes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Main_primes_of_8_is_2_2_2 - 2016.09.09 at 10h 26m 10s.xml">
-      <configuration name="Main.primes_of_8_is_2_2_2" configurationId="JUnit" />
+    <history-entry file="Main_primes - 2016.09.09 at 10h 35m 16s.xml">
+      <configuration name="Main.primes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_primes - 2016.09.09 at 10h 35m 40s.xml">
+      <configuration name="Main.primes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_primes - 2016.09.09 at 10h 44m 05s.xml">
+      <configuration name="Main.primes" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -579,7 +580,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10572917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -619,8 +620,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -641,24 +642,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Primes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Primes.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="323">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
           </folding>
         </state>
       </provider>
